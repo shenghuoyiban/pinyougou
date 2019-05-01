@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.pinyougou"/>
+			<item value="cn.itcast.sms"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="pinyougou-cart-web"/>
+			<item value="pinyougou-parent"/>
+			<item value="pinyougou-cart-service"/>
+			<item value="pinyougou-cart-interface"/>
+			<item value="pinyougou-user-web"/>
+			<item value="itcast_sms_service"/>
+			<item value="pinyougou-user-interface"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item key="width" value="480"/>
+		<item key="x" value="1287"/>
+		<item key="y" value="275"/>
+		<item key="height" value="755"/>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="x" value="1016"/>
+		<item key="y" value="145"/>
+		<item key="height" value="667"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\Duddox\generatorSqlmapCustom"/>
+			<item value="C:\Users\lenovo\Desktop\pinyougou-parent"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="pinyougou-cart-web"/>
+			<item value="pinyougou-cart-service"/>
+			<item value="pinyougou-cart-interface"/>
+			<item value="pinyougou-user-web"/>
+			<item value="pinyuogou-user-service"/>
+			<item value="pinyougou-user-interface"/>
+			<item value="pinyougou-page-service"/>
+			<item value="pinnyougou-page-web"/>
+			<item value="pinyougou-page-interface"/>
+			<item value="pinyougou-search-web"/>
+			<item value="pinyougou-search-service"/>
+			<item value="pinyougou-search-interface"/>
+			<item value="pinyougou-solr-util"/>
+			<item value="pinyougou-portal-web"/>
+			<item value="pinyougou-content-service"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\pinyougou\pinyougou-parent\pinyougou-user-interface"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="org.pinyougou.cart.web"/>
+		</list>
+		<list key="groupId">
+			<item value="com.pinyougou"/>
+		</list>
+		<list key="artifactId">
+			<item value="pinyougou-cart-web"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

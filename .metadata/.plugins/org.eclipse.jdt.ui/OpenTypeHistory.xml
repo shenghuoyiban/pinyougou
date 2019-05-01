@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=pinyougou-manager-web/src\/main\/java&lt;com.pinyougou.manager.controller{SpecificationController.java[SpecificationController" modifiers="1" timestamp="1554556530062"/>
+    <typeInfo handle="=pinyougou-search-interface/src\/main\/java&lt;com.pinyougou.search.service{ItemSearchService.java[ItemSearchService" modifiers="513" timestamp="1554974917566"/>
+    <typeInfo handle="=pinyougou-page-interface/src\/main\/java&lt;com.pinyougou.page.service{ItemPageService.java[ItemPageService" modifiers="513" timestamp="1555057379547"/>
+    <typeInfo handle="=pinyougou-search-service/E:\/idea\/javawork\/repository_pinyougou\/org\/apache\/geronimo\/specs\/geronimo-jms_1.1_spec\/1.1.1\/geronimo-jms_1.1_spec-1.1.1.jar&lt;javax.jms(MessageListener.class[MessageListener" modifiers="1537" timestamp="1487151492983"/>
+    <typeInfo handle="=pinyougou-cart-interface/src\/main\/java&lt;com.pinyougou.cart.service{CartService.java[CartService" modifiers="513" timestamp="1555518232955"/>
+</typeInfoHistroy>

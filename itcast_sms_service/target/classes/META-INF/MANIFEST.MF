@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: lenovo
+Build-Jdk: 12.0.1
+Implementation-Title: itcast_sms_service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: cn.itcast.sms
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/itcast_sms_ser
+ vice/
+Created-By: Maven Integration for Eclipse
+
